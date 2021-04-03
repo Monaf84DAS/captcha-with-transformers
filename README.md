@@ -1,6 +1,6 @@
 # captcha-with-transformers
 captcha with transformers                                                         
-I make this repostory just for fun                                                            
+I make this repository just for fun                                                            
 transformer using attention  Transformer model in "Attention is All You Need" (Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin, arxiv, 2017).https://arxiv.org/abs/1706.03762                          
 To learn more about self-attention mechanism, you could read "A Structured Self-attentive Sentence Embedding".
 
