@@ -7,5 +7,5 @@ To learn more about self-attention mechanism, you could read "A Structured Self-
 ![image](https://user-images.githubusercontent.com/81778920/113490398-6ec31180-947e-11eb-9424-25da0ed7b440.png)
 
 
-download data it is like:
+download data frmo: https://www.kaggle.com/firatsahin/captchadataset it is like:
 ![image](https://user-images.githubusercontent.com/81778920/113490437-bb0e5180-947e-11eb-86fc-f2fe2758256a.png)
